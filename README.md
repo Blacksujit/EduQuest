@@ -134,7 +134,7 @@ Create a new PostgreSQL/MySQL database.
 Update the database URL in the .env file.
 
 
-4. **MVP (Minimum Viable Product) Roadmap:**
+## **MVP (Minimum Viable Product) Roadmap:**
 
 1.)**User Authentication:** Implement sign-up, login, and access control for students and admins.
 
