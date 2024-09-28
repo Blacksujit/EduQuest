@@ -2,7 +2,7 @@
 
 
 
-## Folder Structure:
+## Folder structure:
 
 ```
 gamified-lms/
