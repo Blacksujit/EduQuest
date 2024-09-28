@@ -78,11 +78,16 @@ The LMS will include the following key features:
 
 ## Tech Stack
 
-- **Backend**: Python (Flask or Django)
-- **Frontend**: HTML, CSS (Bootstrap), JavaScript (React or Vanilla JS)
+- **Backend**: Python (Flask)
+
+- **Frontend**: HTML, CSS (Bootstrap), JavaScript
+
 - **Database**: PostgreSQL/MySQL
+
 - **Authentication**: Firebase Authentication or OAuth
+
 - **Gamification Libraries**: Custom or BadgeOS
+
 - **Real-time Features**: WebSockets (for real-time leaderboard updates)
 
 ---
@@ -93,7 +98,6 @@ The LMS will include the following key features:
 - Python 3.x
 - Node.js & npm (for frontend)
 - PostgreSQL/MySQL
-- Firebase account (optional, for authentication)
 
 ### Steps
 
