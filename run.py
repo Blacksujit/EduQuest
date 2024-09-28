@@ -4,7 +4,7 @@ from flask_login import LoginManager, UserMixin, login_user, login_required, log
 from config import Config
 from models import db, User, Achievement
 
-app = Flask(__name__)
+app = Flask(__name__ , template_folder=render_template)
 app.config.from_object(Config)
 db.init_app(app)
 
