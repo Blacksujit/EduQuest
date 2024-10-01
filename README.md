@@ -1,4 +1,4 @@
-# Gamified Learning Management System (LMS)
+# Shiksha Mitra
 
 
 
