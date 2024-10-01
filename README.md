@@ -34,7 +34,7 @@ gamified-lms/
 
 ## Introduction
 
-The **Gamified Learning Management System (LMS)** is designed to enhance traditional learning experiences by integrating gamification elements, such as badges, achievements, and leaderboards. This system aims to increase student engagement and improve learning outcomes through motivation and interactive learning environments.
+Shiksha Mitra is an innovative MVP designed to reshape the way students learn through gamification. Our platform transforms the traditional approach to education by making learning engaging, interactive, and rewarding. As an MVP, Shiksha Mitra focuses on delivering core features that showcase the value of gamified learning,
 
 ## Problem Statement
 
