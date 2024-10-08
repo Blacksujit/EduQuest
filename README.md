@@ -96,7 +96,6 @@ The LMS will include the following key features:
 
 ### Prerequisites
 - Python 3.x
-- Node.js & npm (for frontend)
 - PostgreSQL/MySQL
 
 ### Steps
